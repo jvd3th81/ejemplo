@@ -1,1 +1,10 @@
-Ejercicio de GIT
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	Buenas tardes
+
+</body>
+</html>
